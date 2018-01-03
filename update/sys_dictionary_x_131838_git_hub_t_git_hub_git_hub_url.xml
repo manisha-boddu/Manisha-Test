@@ -52,15 +52,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-03 10:14:26</sys_created_on>
-        <sys_id>1df8e83b4f530300c5143b718110c7b3</sys_id>
+        <sys_id>6ea07c3f4f530300c5143b718110c77a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Git Hub URL</sys_name>
         <sys_package display_value="Git Hub Testing Application" source="x_131838_git_hub_t">e9c720734f130300c5143b718110c76e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Git Hub Testing Application">e9c720734f130300c5143b718110c76e</sys_scope>
         <sys_update_name>sys_dictionary_x_131838_git_hub_t_git_hub_git_hub_url</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-03 10:14:26</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-01-03 10:47:45</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
