@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-03 10:10:08</sys_created_on>
+        <sys_id>ab08603b4f530300c5143b718110c739</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_131838_git_hub_t_git_hub.x_131838_git_hub_t.git_hub_user</sys_name>
+        <sys_package display_value="Git Hub Testing Application" source="x_131838_git_hub_t">e9c720734f130300c5143b718110c76e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git Hub Testing Application">e9c720734f130300c5143b718110c76e</sys_scope>
+        <sys_security_acl display_value="x_131838_git_hub_t_git_hub">eb08603b4f530300c5143b718110c72a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ab08603b4f530300c5143b718110c739</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-03 10:10:08</sys_updated_on>
+        <sys_user_role display_value="x_131838_git_hub_t.git_hub_user" name="x_131838_git_hub_t.git_hub_user">df08ecf74f530300c5143b718110c78b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
